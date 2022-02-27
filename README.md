@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @摆烂波比
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning js 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on  github
+- 📫  biut73
 
 <!---
 Rottenbobi/Rottenbobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
